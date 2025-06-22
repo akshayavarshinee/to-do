@@ -15,7 +15,7 @@ A simple, stylish To-Do List web application built with HTML, CSS, and JavaScrip
 1. **Clone or Download the Repository**
 
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/akshayavarshinee/to-do.git
    ```
 
 2. **Open the App**
