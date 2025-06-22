@@ -1,0 +1,86 @@
+.lilita-one-regular {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+
+.pangolin-regular {
+    font-family: "Pangolin", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body{
+    background-color: #FFF6ED ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: #3A0519;
+}
+
+.input{
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    padding: 10px;
+    text-align: center;
+    background-color: #f3beb4;
+    color: #3A0519;
+}
+
+.add{
+    margin: 20px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #A53860 ;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.to-do{
+    background-color: #f1d5d0;
+    color: #3A0519;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    min-height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+}
+
+.todo-check{
+    height: 15px;
+    min-width: 15px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #A53860 ;
+    cursor: pointer;
+
+}
+
+.credit-link {
+    color:#3A0519;
+    display: block;
+    margin: 40px auto 10px;
+    text-align: center;
+    font-size: 12px;
+    text-decoration: none;
+    opacity: 0.6;
+}
+
+.credit-link:hover {
+    opacity: 1;
+}
